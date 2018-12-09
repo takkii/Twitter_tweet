@@ -27,4 +27,6 @@ UNIX
 Linuxカーネル
 ```
 
-想定しています。
+Qiita関連記事
+
+[Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)
