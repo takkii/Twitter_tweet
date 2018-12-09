@@ -34,6 +34,8 @@ Linuxカーネル
 [ 環境構築 ]
 
 ```txt
+gem install tk
+
 git clone https://github.com/takkii/Twitter_tweet.git
 
 bundle install
