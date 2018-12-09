@@ -10,7 +10,7 @@ Twitter_tweet (Twitterでつぶやき)
 ```
 
 画像
-[]()
+[スクリーン](https://github.com/takkii/Twitter_tweet/blob/master/image/screen.png)
 
 アクセストークンなどは、登録から入手。
 
