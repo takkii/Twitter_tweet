@@ -4,12 +4,14 @@
 
 tubuyaki_guiからTwitterでTweetができるようになった、軽量型のクライアントです。つぶやくことができます。
 
-三部作
-```txt
-tubuyaki (オフラインつぶやき)
-tubuyaki_gui (ボタンが画像オフラインつぶやき)
+[三部作]
+
+[tubuyaki (オフラインつぶやき)](https://github.com/takkii/tubuyaki)
+
+[tubuyaki_gui (ボタンが画像オフラインつぶやき)](https://github.com/takkii/tubuyaki_gui)
+
 Twitter_tweet (Twitterでつぶやき)
-```
+
 
 画像
 
