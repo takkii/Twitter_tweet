@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)[![GitHub release](https://img.shields.io/github/release/takkii/Twitter_tweet.svg?style=flat)](GitHub)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/Twitter_tweet.svg?style=flat)](GitHub)
+
 ### Twitter_tweet
 
 tubuyaki_guiからTwitterでTweetができるようになった、軽量型のクライアントです。つぶやくことができます。
@@ -16,3 +18,13 @@ Twitter_tweet (Twitterでつぶやき)
 アクセストークンなどは、登録から入手。
 
 [登録](https://apps.twitter.com/)
+
+動作環境
+
+```
+Windows
+UNIX
+Linuxカーネル
+```
+
+想定しています。
