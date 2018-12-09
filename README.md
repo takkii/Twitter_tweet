@@ -19,17 +19,23 @@ Twitter_tweet (Twitterでつぶやき)
 
 [登録](https://apps.twitter.com/)
 
+※ twitter_tweet.rbとtweet_cmd.rbの中にある''となっている箇所に挿入。
+
 動作環境
 
-```
+```txt
 Windows
 UNIX
 Linuxカーネル
 ```
 
-Qiita関連記事
+環境構築
 
-[Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)
+```txt
+git clone https://github.com/takkii/Twitter_tweet.git
+
+bundle install
+```
 
 つぶやき
 
@@ -39,8 +45,12 @@ ruby twitter_tweet.rb
 
 タイムライン取得
 
-```
+```ruby
 ruby tweet_cmd.rb
 ```
 
 ※ 取得後のタイムラインはlog/backup.txtに書き込まれています。
+
+Qiita関連記事
+
+[Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)
