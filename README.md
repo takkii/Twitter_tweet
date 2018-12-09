@@ -21,7 +21,7 @@ Twitter_tweet (Twitterでつぶやき)
 
 [登録](https://apps.twitter.com/)
 
-※ twitter_tweet.rbとtweet_cmd.rbの中にある''となっている箇所に挿入。
+※ twitter_tweet.rbとtweet_cmd.rbの中にある'アカウント指定先'で囲まれている箇所に貼り付け。
 
 [ 動作環境 ]
 
