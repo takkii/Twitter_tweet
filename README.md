@@ -4,7 +4,7 @@
 
 tubuyaki_guiからTwitterでTweetができるようになった、軽量型のクライアントです。つぶやくことができます。
 
-[三部作]
+[ 三部作 ]
 
 [tubuyaki (オフラインつぶやき)](https://github.com/takkii/tubuyaki)
 
@@ -13,7 +13,7 @@ tubuyaki_guiからTwitterでTweetができるようになった、軽量型の�
 Twitter_tweet (Twitterでつぶやき)
 
 
-画像
+[ 画像 ]
 
 ![スクリーン](https://github.com/takkii/Twitter_tweet/blob/master/image/screen.png)
 
@@ -23,7 +23,7 @@ Twitter_tweet (Twitterでつぶやき)
 
 ※ twitter_tweet.rbとtweet_cmd.rbの中にある''となっている箇所に挿入。
 
-動作環境
+[ 動作環境 ]
 
 ```txt
 Windows
@@ -31,7 +31,7 @@ UNIX
 Linuxカーネル
 ```
 
-環境構築
+[ 環境構築 ]
 
 ```txt
 git clone https://github.com/takkii/Twitter_tweet.git
@@ -39,13 +39,13 @@ git clone https://github.com/takkii/Twitter_tweet.git
 bundle install
 ```
 
-つぶやき
+[ つぶやき ]
 
 ```ruby
 ruby twitter_tweet.rb
 ```
 
-タイムライン取得
+[ タイムライン取得 ]
 
 ```ruby
 ruby tweet_cmd.rb
@@ -53,6 +53,6 @@ ruby tweet_cmd.rb
 
 ※ 取得後のタイムラインはlog/backup.txtに書き込まれています。
 
-Qiita関連記事
+[ Qiita関連記事 ]
 
 [Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)
