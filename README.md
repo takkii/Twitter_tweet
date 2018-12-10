@@ -23,6 +23,8 @@ Twitter_tweet (Twitterでつぶやき)
 
 ※ twitter_tweet.rbとtweet_cmd.rbの中にある'アカウント指定先'で囲まれている箇所に貼り付け。
 
+※ 箇所がわからないときは「[Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)」参照のこと。
+
 [ 動作環境 ]
 
 ```txt
