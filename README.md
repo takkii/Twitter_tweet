@@ -57,6 +57,4 @@ ruby tweet_cmd.rb
 
 ※ 取得後のタイムラインはlog/backup.txtに書き込まれています。
 
-[ Qiita関連記事 ]
-
-[Tubuyakiのその後](https://qiita.com/takkii/items/e265bd9c18ccbe28ecc8)
+*軽量型のTwitterでつぶやくツールです*
